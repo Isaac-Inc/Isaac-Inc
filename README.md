@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isaac-Inc
+- 👋 Hi, I’m @Isaac Eddy Said-Inc
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on web-developers
